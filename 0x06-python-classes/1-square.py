@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 This is a module that write a class
-Square that defines a square 
+Square that defines a square
 """
 
 
